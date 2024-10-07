@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednasr7&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednasr7" /> </p>
 
-- 🔭 I’m currently working on **Master's Thesis Research, ML & DL Projects**
+- 🔭 I’m currently working on **Master's Thesis Research, Cool ML & DL Projects in the probabilistic models domain**
 
 - 🌱 I’m currently learning **LLMs, Digital Signal Processing, Physics Informed ML**
 
