@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **LLMs, Digital Signal Processing, Physics Informed ML**.
 
-- ✨ I'm passionate about ML, Computer Vision, Scientific Computing, Applied Maths, Signal Processing, and Computing in General.
+- ✨ I'm passionate about **ML, Computer Vision, Scientific Computing, Applied Maths, Signal Processing, and Computing in General**.
   
 - 👯 I’m looking to collaborate on **cool open source ML projects**.
 
