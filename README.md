@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednasr7&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednasr7" /> </p>
 
-- 🔭 I’m currently working on **Master's Thesis Research, Cool ML & DL Projects in the probabilistic models domain**
+- 🔭 I’m currently working on **Master's Thesis Research, Cool ML & DL Projects in the probabilistic models domain**.
 
-- 🌱 I’m currently learning **LLMs, Digital Signal Processing, Physics Informed ML**
+- 🌱 I’m currently learning **LLMs, Digital Signal Processing, Physics Informed ML**.
 
-- 👯 I’m looking to collaborate on **cool open source Machine Learning Projects**
+- 👯 I’m looking to collaborate on **cool open source Machine Learning Projects**.
 
-- 🤝 I’m looking for help with **Physics Informed ML**
+- 🤝 I’m looking for help with **Physics Informed ML**.
 
-- 💬 Ask me about **Python, Pytorch, ML**
+- 💬 Ask me about **Python, Pytorch, ML**.
 
-- 📄 Know about my experiences in my [Resume](https://shorturl.at/V7WXN)
+- 📄 Know about my experiences in my [Resume](https://shorturl.at/V7WXN).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
