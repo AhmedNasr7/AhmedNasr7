@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **LLMs, Digital Signal Processing, Physics Informed ML**.
 
-- 👯 I’m looking to collaborate on **cool open source Machine Learning Projects**.
+- 👯 I’m looking to collaborate on **cool open source ML projects**.
 
 - 🤝 I’m looking for help with **Physics Informed ML**.
 
