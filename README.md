@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, Pytorch, ML**.
 
-- 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1s9R1K2DlqHnE0kRcPzRFqr_eCQEg93C0/view?usp=sharing).
+- 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1bsawMoMKNAJiDdoBWTinT_AgediuYFYz/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
