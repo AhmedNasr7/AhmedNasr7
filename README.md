@@ -13,13 +13,13 @@
 
 <h3 align="left">🛠️ What I Usually Build & Explore:</h3>
 
-- 📷 **Computer Vision & 3D Perception**: Object detection, segmentation, quality drift, LiDAR fusion.
+- 📷 **Computer Vision & 3D Perception**: 2d/3d Object detection, Tracking, segmentation, image alignment, video understanding, LiDAR point cloud perception.
 - 🧠 **LLMs & NLP**: Large Language Models (Gemini, GPT, open-source), structured output generation, document parsing, semantic retrieval, RAG pipelines.
 - 🧏‍♂️ **Speech & Audio ML**: Speech-to-text, captioning, classification,
 - 🎥 **Multimodal AI**: Vision-language understanding, video captioning, scene classification, and multimodal retrieval.
 - 📈 **Scientific ML & PINNs**: Neural PDE solvers, physics-informed architectures, operator learning.
 - 📦 **Edge ML & Deployment**: Running AI on low-power devices, optimizing inference, Docker, TorchServe, and cloud APIs.
-- 🤖 **Robotics & Drones**: Visual perception, autonomous scene understanding
+- 🤖 **Robotics & Drones**: Visual perception, autonomous scene understanding.
 
 <h4 align="left">🧭 Topics I'm Exploring & Excited About:</h4>
 
