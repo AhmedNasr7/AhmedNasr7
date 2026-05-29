@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 Currently working on **agentic AI systems, multimodal pipelines, and physics-informed ML for PDE solving.**
-- 🎓 M.Sc. candidate at Cairo University — researching **deep neural networks and neural operators for scientific computing.**
+- 🎓 M.Sc. candidate at Cairo University — researching **deep generative models and neural operators for scientific computing.**
 - 🚀 Passionate about **production ML systems, scientific machine learning, and bridging research and deployment.**
 - 🤝 Looking to collaborate on **open-source ML tools, neural operators, and physics-informed deep learning.**
 - 💬 Ask me about **Computer Vision, LLMs, ML Deployment, PINNs, and multi-GPU inference.**
@@ -22,7 +22,7 @@
 - 🎥 **Multimodal AI** — vision-language models, multimodal search and retrieval, scene understanding.
 - 📐 **Scientific ML & PINNs** — physics-informed neural networks, neural PDE solvers, operator learning, forward and inverse problems.
 - ⚙️ **ML Serving & Infrastructure** — multi-GPU inference, Ray Serve, vLLM, model optimization for edge and cloud (quantization, pruning, TensorRT, OpenVINO), scalable ML pipelines on GCP.
-- 🤖 **Robotics & Autonomous Perception** — visual perception systems.
+- 🤖 **Robotics & Autonomous Perception** — visual perception systems, AUV and drone-related AI modules.
 
 ---
 
@@ -30,7 +30,7 @@
 
 - 🌌 **Physics & Scientific Modeling** — differential equations, dynamics, simulation, and data-driven surrogates
 - 🚁 **Robotics & Drones** — autonomy, control, navigation, and AI perception
-- 🔬 **Deep Learning Theory** — attention mechanisms, generative models, self-supervised learning, model design, generalization, inference optimization, and optimization theory.
+- 🔬 **Deep Learning Theory** — attention mechanisms, generative models, self-supervised learning, model design, generalization, and optimization theory
 
 ---
 
